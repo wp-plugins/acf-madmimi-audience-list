@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ACF MadMimi Audience List\n"
+"POT-Creation-Date: 2015-07-14 15:41+0100\n"
+"PO-Revision-Date: 2015-07-14 15:47+0100\n"
+"Last-Translator: \n"
+"Language-Team: Daniel Pataki <hello@danielpataki.com>\n"
+"Language: Hungarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: acf-madmimi_audience_list-v4.php:28 acf-madmimi_audience_list-v5.php:34
+msgid "MadMimi Audience List"
+msgstr "MadMimi Lista"
+
+#: acf-madmimi_audience_list-v4.php:29
+msgid "Choice"
+msgstr "Választó"
+
+#: acf-madmimi_audience_list-v4.php:100 acf-madmimi_audience_list-v5.php:111
+msgid "Return Format"
+msgstr "Adat Formátum"
+
+#: acf-madmimi_audience_list-v4.php:101 acf-madmimi_audience_list-v5.php:112
+msgid "Set the type of data you would like the field to return"
+msgstr "Válaszd ki, hogz milyen formátumban szeretnéd visszakapni az adatokat"
+
+#: acf-madmimi_audience_list-v4.php:111 acf-madmimi_audience_list-v5.php:116
+msgid "Array of all API Data"
+msgstr "Array formátumú API adatok"
+
+#: acf-madmimi_audience_list-v4.php:112 acf-madmimi_audience_list-v5.php:117
+msgid "List ID"
+msgstr "Lista ID"
+
+#: acf-madmimi_audience_list-v4.php:113 acf-madmimi_audience_list-v5.php:118
+msgid "Name"
+msgstr "Név"
+
+#: acf-madmimi_audience_list-v4.php:114 acf-madmimi_audience_list-v5.php:119
+msgid "Display Name"
+msgstr "Kijelzett Név"
+
+#: acf-madmimi_audience_list-v4.php:115 acf-madmimi_audience_list-v5.php:120
+msgid "Subscrber Count"
+msgstr "Feliratkozottak Száma"
+
+#: acf-madmimi_audience_list-v4.php:126
+msgid "Allow Multiple"
+msgstr "Több Lista Választása"
+
+#: acf-madmimi_audience_list-v4.php:136 acf-madmimi_audience_list-v5.php:126
+msgid "Allow multiple?"
+msgstr "Választható több lista egyszerre?"
+
+#: acf-madmimi_audience_list-v5.php:125
+msgid "Allow Multiple Selections"
+msgstr "Több lista választásának engedélyezése"
+
+#: acf-madmimi_audience_list.php:120
+msgid "MadMimi Settings"
+msgstr "MadMimi Beállítások"
+
+#: acf-madmimi_audience_list.php:124
+msgid ""
+"Your MadMimi username and API key have been defined within constants. This "
+"is usually done in the wp-config file and is the better option. If you would "
+"like to store your username and API Key in the database remove the "
+"definitions and come back here to fill out a form."
+msgstr ""
+"A Madmimi felhasznlóneved és API kulcsodat már konstansokkal beállítottad. "
+"Ezt a jobbik választás, álltalában a wp-config fileban történik meg. Ha az "
+"adatbázisban szeretnéd tárolni ezeket az adatokat, távolítsd el a "
+"konstansokat és gyere vissza ide. "
+
+#: acf-madmimi_audience_list.php:131
+msgid ""
+"You can also set your username and API key by defining the "
+"MAL_MADMIMI_USERNAME and MAL_MADMIMI_API_KEY constants in the wp-config.php "
+"file for added safety."
+msgstr ""
+"Beállíthatod úgy is a felhasználóneved és API kulcsod, hogy a "
+"MAL_MADMIMI_USERNAME és MAL_MADMIMI_API_KEY konstansokat használod a wp-"
+"config.php file-ban. "
+
+#: acf-madmimi_audience_list.php:138
+msgid "MadMimi Account Username"
+msgstr "MadMimi Felhasználónév"
+
+#: acf-madmimi_audience_list.php:143
+msgid "MadMimi API Key"
+msgstr "MadMimi Api Kulcs"
